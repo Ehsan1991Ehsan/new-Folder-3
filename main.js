@@ -29,3 +29,7 @@ let getCookie = (cName)=>{
 let result = getCookie('theme');
 
 console.log(result);
+
+
+
+alert('Hallo');
