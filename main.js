@@ -31,5 +31,8 @@ let result = getCookie('theme');
 console.log(result);
 
 
+const num = 123;
+
+
 
 
